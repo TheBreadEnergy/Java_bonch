@@ -1,0 +1,2 @@
+Apple;apple.com;One Apple Park Way, Cupertino, CA 95014, Соединенные Штаты;44;66400;1000
+Samsung;samsung.com;1, Samsung-ro, Giheung-gu, Yongin-si, Gyeonggi-do 17113;82;275000;800
